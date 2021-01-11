@@ -1,4 +1,4 @@
-# Codenception.ArtistsGraph
+# Codenception Artists Graph
 Shows a graph or related artists, by using Last.fm API
 
 🚧 Work in progress. It can't be used yet! 🚧
